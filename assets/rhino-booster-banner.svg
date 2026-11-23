@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="pink" x1="0" x2="1">
+      <stop offset="0" stop-color="#f04a9b"/>
+      <stop offset="1" stop-color="#ff78bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="14" fill="#101116"/>
+  <path d="M0 185 Q190 130 340 220 H0Z" fill="#21121f"/>
+  <path d="M1200 0 Q1040 75 930 0 H1200Z" fill="#21121f"/>
+  <path d="M0 218 L270 218 L390 0" stroke="#5b2148" stroke-width="2" opacity=".65" fill="none"/>
+  <path d="M1200 4 L1020 4 L900 220" stroke="#5b2148" stroke-width="2" opacity=".65" fill="none"/>
+  <g transform="translate(105 35)" stroke="url(#pink)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M22 65 L30 5 L83 42 Q120 25 157 42 L210 5 L218 65 Q242 95 232 142 Q221 185 120 185 Q19 185 8 142 Q-2 95 22 65Z"/>
+    <path d="M49 100 Q72 80 95 100 M145 100 Q168 80 191 100"/>
+    <path d="M105 125 Q120 139 135 125"/>
+    <path d="M120 125 Q108 151 88 143 M120 125 Q132 151 152 143"/>
+    <path d="M2 116 L-18 108 M2 132 L-22 132 M238 116 L258 108 M238 132 L262 132"/>
+  </g>
+  <path d="M365 72 C380 47 403 58 399 78 C396 94 374 107 365 113 C355 103 335 88 336 72 C338 55 359 52 365 72Z" fill="none" stroke="#f04a9b" stroke-width="5"/>
+  <text x="445" y="105" fill="#f5f5f7" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Rhino</text>
+  <text x="445" y="174" fill="url(#pink)" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Booster</text>
+  <path d="M447 190 H1050" stroke="#e94b9c" stroke-width="3" opacity=".8"/>
+  <text x="1075" y="105" fill="#d7d7df" font-family="Segoe UI, Arial, sans-serif" font-size="19" text-anchor="end">Boost your hours.</text>
+  <text x="1075" y="134" fill="#d7d7df" font-family="Segoe UI, Arial, sans-serif" font-size="19" text-anchor="end">Keep your style.</text>
+</svg>
